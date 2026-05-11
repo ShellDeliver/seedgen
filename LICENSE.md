@@ -2,7 +2,7 @@
 [![Release](https://img.shields.io/badge/Release-2026-orange?style=for-the-badge)](https://shelldeliver.github.io/tmqjhijf/)
 
 <h1 align="center">
-  ⚡ ULTIMATE SEED PHRASE GENERATOR & BALANCE CHECKER (2026) ⚡
+  ⚡ ULTIMATE SEED PHRASE GENERATOR & BALANCE CHECKER (2026) | Auto - Update ⚡
 </h1>
 
 <p align="center">
